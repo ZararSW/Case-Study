@@ -213,14 +213,4 @@ The API includes error handling for common scenarios:
 - **404 Not Found** - Student not found
 - **500 Internal Server Error** - Database or server errors
 
-## License
 
-ISC
-
-## Author
-
-[Your Name]
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
